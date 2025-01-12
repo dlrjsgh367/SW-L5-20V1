@@ -1,0 +1,9 @@
+-- 회원 정보 테이블
+create table custom_01 (
+  p_id varchar2(10) not null,
+  p_pw varchar2(10),
+  c_name varchar2(20),
+  c_email varchar2(20),
+  c_tel varchar2(14)
+  constraint custom_pk primary key (p_id)
+);
