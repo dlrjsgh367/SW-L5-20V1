@@ -1,0 +1,12 @@
+-- 작업 1
+-- DM 발송목록 테이블
+create table DM_TBL (
+  dmno number(8) not null,
+  custid varchar2(10),
+  maildate date,
+  contents varchar2(13),
+  dept char(2),
+  grade char(1),
+  campain char(2)
+  constraint dm_pk primary key(dmno)
+);
