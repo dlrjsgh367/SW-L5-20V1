@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div>
+      <h2>제조사명 조회</h2>
+      <table>
+        <tr>
+          <td colspan="2">제품코드(4) 입력</td>
+        </tr>
+        <tr>
+          <td>제품코드</td>
+          <td><input/></td>
+        </tr>
+        <tr>
+          <td colspan=21">
+            <button>확인</button>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

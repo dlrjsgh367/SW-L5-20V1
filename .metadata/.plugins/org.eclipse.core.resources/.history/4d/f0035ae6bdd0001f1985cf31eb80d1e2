@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div>
+      <h2>제조사명 조회</h2>
+      <table>
+        <tr>
+          <td colspan="2">
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
